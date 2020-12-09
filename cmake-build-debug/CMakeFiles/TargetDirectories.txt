@@ -1,0 +1,3 @@
+C:/Users/NguyenCongPC/Desktop/C Language/SortArray/cmake-build-debug/CMakeFiles/SortArray.dir
+C:/Users/NguyenCongPC/Desktop/C Language/SortArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/NguyenCongPC/Desktop/C Language/SortArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
